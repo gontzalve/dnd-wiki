@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "d1533a62e770b08e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e11c3eb05920150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045d979986d9f6f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Overview.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2b4e41c797947a35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/Player Data.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1dabb6a0445cb8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8154a7e1e6cd78e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e79361cfe00ce555",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b45d585a4fa1ef23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "00282f2ce701b403",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "aafa0bf17aa77687",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a0f462d124a167dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb53fdc62ed2da4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7959736da8f5e16",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Campaign/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d17632ac61737e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Campaign/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e250b5439b178117",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "121ce4732b19dd70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaign/Overview.md"
+              }
+            }
+          },
+          {
+            "id": "9271a6de1c71838e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "e79361cfe00ce555",
+  "lastOpenFiles": [
+    "Campaign/Player Data.md",
+    "Campaign/Ideas.md",
+    "Campaign/Overview.md",
+    "Characters/Miliana.md",
+    "2024-09-22.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Characters/Portraits/Miliana.jpg",
+    "Characters/Template.md",
+    "Characters/Portraits/milanesa.jpg",
+    "Characters/Portraits/test.jpg",
+    "Campaign",
+    "Template 1.md",
+    "template base.md",
+    "Test.md",
+    "|locl+hs-med.md",
+    "Characters/Portraits",
+    "Characters/D38FRtSUEAAizCZ.jpg",
+    "Characters",
+    "Characterizations/Feats.md",
+    "Classes/Fighter.md",
+    "Classes/Barbarian.md",
+    "Classes/Bard.md",
+    "Classes/Druid.md",
+    "Gameplay/Abilities.md",
+    "Monsters/Mimic.md",
+    "Monsters/Troll.md",
+    "Races/Gnome.md",
+    "Spells (Alt)/## Spell Lists.md",
+    "Characterizations/Alignment.md",
+    "Characterizations/Backgrounds.md",
+    "Notas/Tips.md",
+    "gamedev/snippets.md",
+    "personal",
+    "gamedev"
+  ]
+}

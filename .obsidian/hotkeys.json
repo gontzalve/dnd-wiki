@@ -1,0 +1,17 @@
+{
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ]
+}

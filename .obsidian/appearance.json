@@ -1,0 +1,13 @@
+{
+  "accentColor": "#6db478",
+  "theme": "obsidian",
+  "cssTheme": "Typewriter",
+  "interfaceFontFamily": "Ubuntu",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "textFontFamily": "Noto Mono",
+  "monospaceFontFamily": "Noto Mono"
+}
